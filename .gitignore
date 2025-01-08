@@ -2,3 +2,5 @@ java/target/
 *.ser
 java/.idea/
 *.iml
+*.gob
+*.json
